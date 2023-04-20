@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Insert"
+        android:icon="@drawable/insertar"
+        android:title="Escribir"
+
+        />
+    <item android:id="@+id/Read"
+        android:icon="@drawable/read"
+        android:title="Leer"
+        />
+    <item android:id="@+id/Update"
+        android:icon="@drawable/update"
+        android:title="Actualizar"
+        />
+    <item android:id="@+id/Delete"
+        android:icon="@drawable/delete"
+        android:title="Borrar"
+        />
+    <item android:id="@+id/Buscar"
+        android:icon="@drawable/search"
+        android:title="Buscar"
+        />
+</menu>
